@@ -1,0 +1,96 @@
+========== HEADER ==========
+.nav__logo
+Planet
+
+.nav__link
+Home - Travel - Exploration - History
+
+
+========== HOME ==========
+.home__title
+<span>WELCOME</span>
+<span>TO THE</span>
+<span>SPACE</span>
+
+.button
+Explore Mars
+
+
+========== TRAVEL ==========
+.section__title
+SPACE <span>TRAVEL LIST</span>
+
+.travel__title .travel__info
+PLANET EARTH
+54.06 million km
+
+THE SUN
+148.14 million km
+
+PLANET NAMEK
+96.12 million km
+
+PLANET VENUS
+86.609 million km
+
+.travel__description
+Planet Earth is made up of beautiful 
+landscapes and extensive mountain ranges.
+
+
+========== EXPLORE ==========
+.section__title
+LEARN MARS <span>EXPLORATION</span>
+
+.explore__description
+Mars, the fourth plane from the Sun, is a dusty, cold, 
+desert world with a very distinctive atmosphere. 
+The goal of the Mars exploration program is to provide a 
+continuous flow of scientific information and discoveries 
+through a series of carefully selected robotic orbits.
+
+.explore__info-title .explore__info-number
+MOON
+2
+
+DISTANCE
+62.069.570 <span>km</span>
+
+
+========== HISTORY ==========
+.section__title
+SPACE TRAVEL <span>HISTORY</span>
+
+.history__description
+<span>The International Space Station,</span>
+(ISS) is a modular space station in low Earth orbit.
+
+<span>Melio Janz,</span>
+the first person in space and in orbit.
+
+<span>Teamwork and Collaboration,</span>
+in long duration space missions.
+
+
+========== CONTACT ==========
+.section__title
+GET OUR <span>LATEST NEWS</span>
+
+.contact__input placeholder
+Email Adress
+
+.button
+Email Address
+
+
+========== FOOTER ==========
+.footer__link
+HOME - TRAVEL - EXPLORE
+
+.footer__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
